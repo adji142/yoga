@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 29 Mei 2018 pada 11.52
+-- Generation Time: 29 Mei 2018 pada 11.54
 -- Versi Server: 5.6.20
 -- PHP Version: 5.5.15
 
